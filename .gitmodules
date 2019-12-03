@@ -1,0 +1,6 @@
+[submodule "WS2812"]
+	path = WS2812
+	url = git@github.com:bowersNick/WS2812.git
+[submodule "Ultrasonic"]
+	path = Ultrasonic
+	url = git@github.com:bowersNick/Ultrasonic.git
