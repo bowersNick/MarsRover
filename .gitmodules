@@ -4,3 +4,6 @@
 [submodule "Ultrasonic"]
 	path = Ultrasonic
 	url = git@github.com:bowersNick/Ultrasonic.git
+[submodule "PCA9685"]
+	path = PCA9685
+	url = git@github.com:bowersNick/PCA9685.git
