@@ -1,4 +1,4 @@
-fid = fopen('./log/serialData.txt', 'wt');
+fid = fopen('../log/serialData.txt', 'wt');
 if fid ~= -1
     for t=1:length(gps{1}.Values.Time)
         for i=1:gps.numElements
